@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+
+
+
+# Virtualenvironment By Fahad Ahammed
+.virtualenvironments
+.virtualenvironments/*
+.virtualenvironment
+.virtualenvironment/
